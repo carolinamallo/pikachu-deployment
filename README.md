@@ -1,6 +1,6 @@
 # pikachu-deployment
 
-{
+```{
   "ref": "refs/heads/master",
   "before": "0000000000000000000000000000000000000000",
   "after": "e9c0fc2305ea62d00e103c670af1a5ac30bf02a7",
@@ -188,3 +188,4 @@
     ]
   }
 }
+```
