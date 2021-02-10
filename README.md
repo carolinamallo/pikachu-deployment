@@ -142,12 +142,12 @@
       "url": "https://github.com/carolinamallo/pikachu-deployment/commit/09383c8454b595fcb7814d3645e61d165d2df4a3",
       "author": {
         "name": "Carolina Mallo",
-        "email": "carolinam@ext.inditex.com",
+        "email": "carolinam@pikachu.com",
         "username": "carolinamallo"
       },
       "committer": {
         "name": "Carolina Mallo",
-        "email": "carolinam@ext.inditex.com",
+        "email": "carolinam@pikachu.com",
         "username": "carolinamallo"
       },
       "added": [
@@ -170,12 +170,12 @@
     "url": "https://github.com/carolinamallo/pikachu-deployment/commit/09383c8454b595fcb7814d3645e61d165d2df4a3",
     "author": {
       "name": "Carolina Mallo",
-      "email": "carolinam@ext.inditex.com",
+      "email": "carolinam@pikachu.com",
       "username": "carolinamallo"
     },
     "committer": {
       "name": "Carolina Mallo",
-      "email": "carolinam@ext.inditex.com",
+      "email": "carolinam@pikachu.com",
       "username": "carolinamallo"
     },
     "added": [
